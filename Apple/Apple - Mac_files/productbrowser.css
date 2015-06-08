@@ -1,0 +1,237 @@
+#productbrowser {
+	FONT-SIZE: 12px; BACKGROUND: url(/mac/home/images/productbrowser_background_20081014.jpg) no-repeat 50% top; OVERFLOW: auto; WIDTH: 980px; LINE-HEIGHT: 18px; HEIGHT: 180px
+}
+#pb-productbrowsercontainer {
+	MARGIN: 0px auto; WIDTH: 980px; POSITION: relative; HEIGHT: 180px
+}
+#pb-productslider {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 3900px; PADDING-TOP: 0px; POSITION: absolute; TOP: 4px; HEIGHT: 140px
+}
+#pb-productslider .pb-productimage {
+	FLOAT: left; WIDTH: 136px; POSITION: relative; TOP: 0px; HEIGHT: 140px
+}
+#pb-productslider .pb-productimage A:link {
+	BACKGROUND-POSITION: 50% 100%; FONT-SIZE: 11px; FLOAT: left; OVERFLOW: hidden; WIDTH: 100%; COLOR: #ccc; PADDING-TOP: 125px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+#pb-productslider .pb-productimage A:visited {
+	BACKGROUND-POSITION: 50% 100%; FONT-SIZE: 11px; FLOAT: left; OVERFLOW: hidden; WIDTH: 100%; COLOR: #ccc; PADDING-TOP: 125px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+#pb-productslider .pb-productimage A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#pb-productslidertrack {
+	BACKGROUND: url(/mac/home/images/productbrowser_scrollbar_20070622.png) no-repeat; LEFT: 18px; VISIBILITY: hidden; OVERFLOW: hidden; WIDTH: 944px; POSITION: absolute; TOP: 152px; HEIGHT: 19px
+}
+#pb-cat1 {
+	FONT-SIZE: 11px; Z-INDEX: 150; LEFT: 57px; CURSOR: pointer; COLOR: #fff; POSITION: absolute; TOP: 0px
+}
+#pb-cat2 {
+	FONT-SIZE: 11px; Z-INDEX: 150; LEFT: 296px; CURSOR: pointer; COLOR: #fff; POSITION: absolute; TOP: 0px
+}
+#pb-cat3 {
+	FONT-SIZE: 11px; Z-INDEX: 150; LEFT: 536px; CURSOR: pointer; COLOR: #fff; POSITION: absolute; TOP: 0px
+}
+#pb-cat4 {
+	FONT-SIZE: 11px; Z-INDEX: 150; LEFT: 833px; CURSOR: pointer; COLOR: #fff; POSITION: absolute; TOP: 0px
+}
+#pb-productsliderhandle {
+	Z-INDEX: 155; WIDTH: 181px; CURSOR: pointer; POSITION: absolute; HEIGHT: 19px
+}
+#pb-productsliderhandleimage {
+	Z-INDEX: 5; BACKGROUND: url(/mac/home/images/productbrowser_scroller_20080115.png) no-repeat; BEHAVIOR: url(/global/scripts/lib/iepngfix.htc); WIDTH: 181px; CURSOR: pointer; POSITION: absolute; HEIGHT: 19px
+}
+#pb-leftarrow {
+	Z-INDEX: 150; BACKGROUND: none transparent scroll repeat 0% 0%; LEFT: 17px; WIDTH: 20px; CURSOR: pointer; POSITION: absolute; TOP: 152px; HEIGHT: 20px
+}
+#pb-rightarrow {
+	Z-INDEX: 150; BACKGROUND: none transparent scroll repeat 0% 0%; LEFT: 942px; WIDTH: 20px; CURSOR: pointer; POSITION: absolute; TOP: 152px; HEIGHT: 20px
+}
+#pb-iphone-leftarrow {
+	Z-INDEX: 1000; BACKGROUND: url(/mac/home/images/productbrowser/pb_arrows_04_left.png) no-repeat 50% top; LEFT: 0px; WIDTH: 69px; CURSOR: pointer; POSITION: absolute; TOP: 0px; HEIGHT: 180px
+}
+#pb-iphone-rightarrow {
+	Z-INDEX: 100000; BACKGROUND: url(/mac/home/images/productbrowser/pb_arrows_04_right.png) no-repeat 50% top; LEFT: 910px; WIDTH: 69px; CURSOR: pointer; POSITION: absolute; TOP: 0px; HEIGHT: 180px
+}
+#pb-productbrowsercontainer .pb-catclass0 {
+	COLOR: #666
+}
+#pb-productbrowsercontainer .pb-catclass1 {
+	COLOR: #777
+}
+#pb-productbrowsercontainer .pb-catclass2 {
+	COLOR: #888
+}
+#pb-productbrowsercontainer .pb-catclass3 {
+	COLOR: #999
+}
+#pb-productbrowsercontainer .pb-catclass4 {
+	COLOR: #aaa
+}
+#pb-productbrowsercontainer .pb-catclass5 {
+	COLOR: #bbb
+}
+#pb-productbrowsercontainer .pb-catclass6 {
+	COLOR: #ccc
+}
+#pb-productbrowsercontainer .pb-catclass7 {
+	COLOR: #ddd
+}
+#pb-productbrowsercontainer .pb-catclass8 {
+	COLOR: #eee
+}
+#pb-productbrowsercontainer .pb-catclass9 {
+	COLOR: #eee
+}
+#pb-productbrowsercontainer .pb-catclass10 {
+	COLOR: #fff
+}
+#pb-productbrowsercontainer .pb-catclass11 {
+	COLOR: #fff
+}
+#pb-productbrowsercontainer .pb-catclass5#pb-cat1 {
+	COLOR: #fff
+}
+#pb-productslider #pb-airportexpress A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_airport_express.jpg)
+}
+#pb-productslider #pb-airportextreme A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_airport_extreme.jpg)
+}
+#pb-productslider #pb-timecapsule A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_timecapsule_20080115.jpg)
+}
+#pb-productslider #pb-mightymouse A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_mighty_mouse.jpg)
+}
+#pb-productslider #pb-keyboards A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_keyboards20070807.jpg)
+}
+#pb-productslider #pb-displays A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_led_cinema_display_20081015.jpg)
+}
+#pb-productslider #pb-macpro A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_mac_pro_20090608.jpg)
+}
+#pb-productslider #pb-macbook A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_macbook_20090608.jpg)
+}
+#pb-productslider #pb-macbookair A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_macbookair_20081014.jpg)
+}
+#pb-productslider #pb-macbookpro A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_macbookpro_20090608.jpg)
+}
+#pb-productslider #pb-macmini A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_mac_mini_20090608.jpg)
+}
+#pb-productslider #pb-imac A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_imac20071026.jpg)
+}
+#pb-productslider #pb-macosx A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_macosx_20090608.jpg)
+}
+#pb-productslider #pb-ilife A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_ilife_20090106.jpg)
+}
+#pb-productslider #pb-mobileme A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_mobile_me.jpg)
+}
+#pb-productslider #pb-iwork A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_iwork_20090106.jpg)
+}
+#pb-productslider #pb-safari A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_safari20090618.jpg)
+}
+#pb-productslider #pb-quicktime A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_quicktime.jpg)
+}
+#pb-productslider #pb-aperture A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_aperture20080212.jpg)
+}
+#pb-productslider #pb-logicstudio A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_logic_studio_20090723.jpg)
+}
+#pb-productslider #pb-finalcut A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_final_cut_studio_20090723.jpg)
+}
+#pb-productslider #pb-finalcutserver A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_final_cut_server_20090723.jpg)
+}
+#pb-productslider #pb-logicexpress A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_logic_express_20090723.jpg)
+}
+#pb-productslider #pb-finalcutexpress A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_final_cut_express_20080115.jpg)
+}
+#pb-productslider #pb-shake A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_shake_20090723.jpg)
+}
+#pb-productslider #pb-ard A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_apple_remote_desktop_20080115.jpg)
+}
+#pb-productslider #pb-xserve A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_xserve.jpg)
+}
+#pb-productslider #pb-xserveraid A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_xserve_raid.jpg)
+}
+#pb-productslider #pb-xsan A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_xsan_20080219.jpg)
+}
+#pb-productslider #pb-macosxserver A {
+	BACKGROUND-IMAGE: url(/mac/home/images/productbrowser/pb_macosx_server_20090608.jpg)
+}
+#pb-productslider #pb-airportexpress {
+	MARGIN: 0px -25px 0px 0px
+}
+#pb-productslider #pb-airportextreme {
+	MARGIN: 0px 0px 0px 7px
+}
+#pb-productslider #pb-timecapsule {
+	MARGIN: 0px 15px 0px -5px
+}
+#pb-productslider #pb-xsan {
+	MARGIN-LEFT: 0px
+}
+#pb-productslider #pb-macmini {
+	MARGIN: 0px -18px
+}
+#pb-productslider #pb-macbook {
+	MARGIN: 0px 0px 0px 20px
+}
+#pb-productslider #pb-macbookpro {
+	MARGIN: 0px
+}
+#pb-productslider #pb-macbookair {
+	MARGIN: 0px
+}
+#pb-productslider #pb-imac {
+	MARGIN: 0px 16px
+}
+#pb-productslider #pb-displays {
+	MARGIN: 0px 0px 0px 7px
+}
+#pb-productslider #pb-macosx {
+	MARGIN: 0px 7px 0px 0px
+}
+#pb-productslider #pb-xserve {
+	MARGIN: 0px
+}
+#pb-productslider #pb-xsan {
+	MARGIN: 0px 0px 0px -14px
+}
+#pb-productslider #pb-keyboards {
+	MARGIN: 0px
+}
+#pb-productslider #pb-finalcutexpress {
+	MARGIN: 0px -10px 0px 0px
+}
+#pb-productslider #pb-macosxserver {
+	MARGIN: 0px
+}
+#pb-productslider #pb-finalcutserver {
+	MARGIN: 0px 10px 0px 0px
+}
+#pb-productslider #pb-shake {
+	MARGIN: 0px -10px
+}

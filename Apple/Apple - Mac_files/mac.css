@@ -1,0 +1,474 @@
+HTML {
+	BACKGROUND-COLOR: #f7f7f7
+}
+BODY {
+	MARGIN: 0px auto; WIDTH: 982px; BACKGROUND-COLOR: transparent
+}
+#main {
+	MARGIN: 0px auto; WIDTH: 980px
+}
+#content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 14px
+}
+.grid3cola {
+	MARGIN: 0px -2px; WIDTH: 984px
+}
+.grid3cola .column {
+	MARGIN-LEFT: 6px; WIDTH: 600px
+}
+.grid3cola .first.column {
+	WIDTH: 186px
+}
+.grid3cola .last.column {
+	WIDTH: 186px
+}
+#content {
+	COLOR: #333
+}
+#main .sidebar {
+	COLOR: #333
+}
+#main .sidebar {
+	FONT-SIZE: 11px; LINE-HEIGHT: 14px
+}
+#main .sidebar A.more {
+	PADDING-RIGHT: 8px; BACKGROUND-POSITION: 100% 0.4em
+}
+#main A.arrow {
+	PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(/mac/home/images/arrow20090106.gif) no-repeat 100% 50%; _position: relative
+}
+#content .box {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND: url(/mac/home/images/box_bg20090106.gif) #fff repeat-y 0px 0px; PADDING-BOTTOM: 1px; OVERFLOW: hidden; WIDTH: 560px; PADDING-TOP: 0px; ZOOM: 1; POSITION: relative
+}
+#content .box .cap {
+	FONT-SIZE: 1px; MARGIN: 0px -20px; BEHAVIOR: url(/global/scripts/lib/iepngfix.htc); WIDTH: 600px; POSITION: absolute; HEIGHT: 6px
+}
+#content .box .top.cap {
+	BACKGROUND: url(/mac/home/images/box_bgtop20090106.png) no-repeat 0px 0px; MARGIN-LEFT: -2px; TOP: 0px
+}
+#content .box .bottom.cap {
+	BACKGROUND: url(/mac/home/images/box_bgbottom20090106.png) no-repeat 0px 100%; BOTTOM: 0px
+}
+#content .box .gradient {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 18px; BACKGROUND: url(/mac/home/images/box_bggrad20090106.gif) #fff repeat-x 0px 100%; PADDING-BOTTOM: 0px; MARGIN: 0px -18px; OVERFLOW: hidden; WIDTH: 560px; PADDING-TOP: 0px
+}
+#content .sidebar .box {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; BACKGROUND-IMAGE: url(/mac/home/images/box_sidebar_bg20090106.gif); PADDING-BOTTOM: 1px; WIDTH: 162px; PADDING-TOP: 0px
+}
+#content .sidebar .box .cap {
+	LEFT: 12px; MARGIN: 0px -12px; WIDTH: 186px
+}
+#content .sidebar .box .top.cap {
+	BACKGROUND-IMAGE: url(/mac/home/images/box_sidebar_bgtop20090106.png)
+}
+#content .sidebar .box .bottom.cap {
+	BACKGROUND-IMAGE: url(/mac/home/images/box_sidebar_bgbottom20090106.png)
+}
+#content .full.box {
+	BACKGROUND: url(/mac/home/images/box_full_bg20090608.gif) #fff repeat-y 0px 0px
+}
+#content .full.box .top.cap {
+	BACKGROUND-IMAGE: url(/mac/home/images/box_full_bgtop20090608.png); WIDTH: 980px
+}
+#content .full.box .bottom.cap {
+	BACKGROUND-IMAGE: url(/mac/home/images/box_full_bgbottom20090608.png); WIDTH: 980px; POSITION: relative
+}
+#content .box H2 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 14px; BACKGROUND: url(/mac/home/images/box_header20090106.gif) #dfdfdf repeat-x 0px 0px; PADDING-BOTTOM: 4px; MARGIN: 0px -18px; COLOR: #4d4d4d; PADDING-TOP: 6px; BORDER-BOTTOM: #d9d9d9 1px solid
+}
+#content .box H2 A {
+	COLOR: #4d4d4d
+}
+#content .sidebar .box H2 {
+	MARGIN: 0px -10px
+}
+#content .box UL {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px -10px; OVERFLOW: hidden; PADDING-TOP: 0px; _width: 100%; _position: relative; _padding: 0 0 0 20px
+}
+#content .box UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1.1em; MARGIN: 0px 0px -1px; PADDING-TOP: 1.1em; BORDER-BOTTOM: #d9d9d9 1px solid
+}
+#content .box P {
+	MARGIN-TOP: 0.3em; MARGIN-BOTTOM: 0px
+}
+#content .box IMG {
+	DISPLAY: block
+}
+#content .box IMG.flush {
+	MARGIN: 0px -10px
+}
+#content .box H3 {
+	DISPLAY: block; FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000; LINE-HEIGHT: 16px
+}
+#content .box STRONG {
+	DISPLAY: block; FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000; LINE-HEIGHT: 16px
+}
+#content .box H3 A {
+	COLOR: #000
+}
+#content .box STRONG A {
+	COLOR: #000
+}
+#content .box H3 A:hover {
+	COLOR: #08c
+}
+#content .box STRONG A:hover {
+	COLOR: #08c
+}
+#content .box EM {
+	COLOR: #a9a9a9! important; FONT-STYLE: normal
+}
+#content .box H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #aaa
+}
+#content .box A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+#content .box UL LI A:hover {
+	CURSOR: pointer; COLOR: #08c
+}
+#content .box UL LI A:hover * {
+	CURSOR: pointer; COLOR: #08c
+}
+#content .box A.more {
+	COLOR: #08c
+}
+#content .box A.more:hover {
+	COLOR: #08c; TEXT-DECORATION: underline
+}
+#content .upper .box {
+	MIN-HEIGHT: 427px; _height: 427px
+}
+#content .lower .box {
+	MIN-HEIGHT: 536px; HEIGHT: 536px
+}
+#content .getamac LI.love IMG {
+	MARGIN-BOTTOM: -3px
+}
+#content .getamac LI.ads {
+	PADDING-BOTTOM: 0px
+}
+#content UL.promos {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 1px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#content UL.promos LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 1px; OVERFLOW: hidden; WIDTH: 196px; PADDING-TOP: 0px; HEIGHT: 120px
+}
+#content UL.promos LI.lead {
+	CLEAR: both; DISPLAY: block; MARGIN-BOTTOM: 4px; WIDTH: 600px; POSITION: relative; HEIGHT: 304px
+}
+#content UL.promos LI.last {
+	FLOAT: right! important; WIDTH: 196px! important
+}
+#content .promos .lead A {
+	Z-INDEX: 2; LEFT: 0px; WIDTH: 235px; BOTTOM: 4px; POSITION: absolute; TEXT-DECORATION: none
+}
+#content .promos .lead A IMG {
+	Z-INDEX: 2; BOTTOM: 1px; POSITION: absolute
+}
+#content .promos .lead A .more {
+	PADDING-RIGHT: 10px; Z-INDEX: 3; BACKGROUND: url(/global/elements/arrows/morearrow_08c.gif) no-repeat 100% 60%; POSITION: relative; TOP: -8px
+}
+#content .promos .lead #fc-studio {
+	LEFT: 35px
+}
+#content .promos .lead #logic-studio {
+	LEFT: 316px
+}
+#content .promos .lead #fc-studio .more {
+	MARGIN-LEFT: 73px
+}
+#content .promos .lead #logic-studio .more {
+	MARGIN-LEFT: 23px
+}
+#content .promos .lead #lead-bg {
+	Z-INDEX: 1; LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+#content .findouthow UL LI {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1.1em; PADDING-TOP: 1.1em
+}
+#content .findouthow UL LI H3 {
+	LINE-HEIGHT: 14px
+}
+#content .findouthow UL LI IMG {
+	FLOAT: left; MARGIN: -6px 8px -7px 0px
+}
+#content .findouthow UL LI.featured {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#content .findouthow UL LI.featured A {
+	COLOR: #888
+}
+#content .findouthow UL LI.featured A IMG {
+	PADDING-RIGHT: 12px; DISPLAY: inline; PADDING-LEFT: 12px; BACKGROUND: url(/mac/home/images/findouthow_featured20080106.gif) no-repeat 0px 0px; PADDING-BOTTOM: 21px; MARGIN: 0px 7px 1px; PADDING-TOP: 12px
+}
+#content .findouthow UL LI.featured A B {
+	DISPLAY: block; FONT-WEIGHT: normal; COLOR: #000
+}
+#content .findouthow UL LI.more {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 11px
+}
+#content .upper .macsinaction.box {
+	MIN-HEIGHT: 303px; HEIGHT: 300px
+}
+#content .upper .macsinaction.box H3 A {
+	DISPLAY: block; BACKGROUND: url(/mac/home/images/arrow20090106.gif) no-repeat 100% 50%
+}
+#content .inaction UL LI.featured {
+	MIN-HEIGHT: 281px; _height: 281px
+}
+#content .inaction UL LI.featured IMG {
+	MARGIN: 8px 0px 16px
+}
+#content .buy UL LI P A {
+	COLOR: #08c
+}
+#content .buy UL LI P A:hover {
+	TEXT-DECORATION: underline
+}
+#content .showcase #qtview {
+	MARGIN-TOP: 31px; WIDTH: 560px; PADDING-TOP: 373px; POSITION: relative; HEIGHT: 1px
+}
+#content .showcase #qtview .qtcontent {
+	WIDTH: 560px; POSITION: absolute; TOP: 0px; HEIGHT: 373px
+}
+#content .showcase #qtview IMG {
+	Z-INDEX: 1; LEFT: 0px; POSITION: absolute
+}
+#content .showcase #qtview UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 1; PADDING-BOTTOM: 0px; PADDING-TOP: 155px; POSITION: relative; TEXT-ALIGN: center
+}
+#content .showcase #qtview UL LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#content .showcase #qtview .endState {
+	BACKGROUND: #000; WIDTH: 560px; HEIGHT: 352px
+}
+#content .showcase #qtview .endState IMG {
+	FILTER: alpha(opacity=70); TOP: 0px; opacity: .7; -moz-opacity: .7
+}
+#content .macsinaction {
+	MARGIN-BOTTOM: 6px; HEIGHT: 300px! important
+}
+#content .macsinaction IMG {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 5px
+}
+#content .macsinaction P {
+	PADDING-BOTTOM: 5px; BORDER-BOTTOM: #d9d9d9 1px solid
+}
+#content .macsinaction UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0.85em; PADDING-TOP: 0.85em
+}
+#content .macsinaction UL LI A {
+	PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(/mac/home/images/arrow20090106.gif) no-repeat 100% 50%
+}
+#content .full.box {
+	WIDTH: auto
+}
+#content .lower.grid3col {
+	MARGIN-BOTTOM: 12px
+}
+#content .lower.grid3col .featuredtutorials.first.column {
+	WIDTH: 180px
+}
+#content .lower.grid3col .alltutorials.last.column {
+	WIDTH: 165px
+}
+#content .lower.grid3col .showcase.column {
+	MARGIN-LEFT: 6px
+}
+#content .lower.grid3col LI.title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#content .lower.grid3col LI.title P {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 5px
+}
+#content .lower.grid3col .box {
+	MIN-HEIGHT: 448px; HEIGHT: 453px
+}
+#content .showcase #qtview A.pillbutton {
+	PADDING-RIGHT: 43px; DISPLAY: inline-block; FONT-SIZE: 15px; Z-INDEX: 2; COLOR: #fff; LINE-HEIGHT: 1.3em; POSITION: relative; TEXT-DECORATION: none; outline: none
+}
+#content .showcase #qtview A.pillbutton SPAN {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; WIDTH: auto; PADDING-TOP: 15px; TEXT-ALIGN: left
+}
+#content .showcase #qtview A.pillbutton B {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; WIDTH: auto; PADDING-TOP: 15px; TEXT-ALIGN: left
+}
+#content .showcase #qtview A.pillbutton SPAN {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 25px; BACKGROUND: url(http://images.apple.com/global/elements/buttons/pillbevel_leftcap.png) no-repeat 0px 50%; _background-image: url(http://images.apple.com/global/elements/buttons/pill_leftcap.gif)
+}
+#content .showcase #qtview A.pillbutton B {
+	RIGHT: 0px; BACKGROUND: url(http://images.apple.com/global/elements/buttons/pillbevel_rightcap.png) no-repeat 0px 50%; WIDTH: 43px; TEXT-INDENT: -9999px; POSITION: absolute; TOP: 0px; _background-image: url(http://images.apple.com/global/elements/buttons/pill_rightcap.gif)
+}
+#content .showcase #qtview A.pillbutton:hover {
+	COLOR: #e6e6e6
+}
+#content .showcase #qtview A.pillbutton:hover * {
+	COLOR: #e6e6e6
+}
+#content .showcase #qtview A.pillbutton:focus {
+	COLOR: #e6e6e6
+}
+#content .showcase #qtview A.pillbutton {
+	DISPLAY: block; MARGIN: 0px auto; WIDTH: 8.5em
+}
+x:unknown {
+	DISPLAY: block; MARGIN: 0px auto; WIDTH: 8.5em
+}
+#content .showcase #qtview .endState A.pillbutton {
+	WIDTH: 16em
+}
+x:unknown {
+	WIDTH: 16em
+}
+#content .showcase #qtview A.pillbutton {
+	DISPLAY: inline-block; WIDTH: auto
+}
+x:unknown {
+	DISPLAY: inline-block; WIDTH: auto
+}
+x:unknown {
+	DISPLAY: inline-block; WIDTH: auto
+}
+#content .showcase #qtview .endState A.pillbutton {
+	DISPLAY: inline-block; WIDTH: auto
+}
+x:unknown {
+	DISPLAY: inline-block; WIDTH: auto
+}
+x:unknown {
+	DISPLAY: inline-block; WIDTH: auto
+}
+#content .showcase #qtview .controllerPanel {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 560px; BOTTOM: 0px; PADDING-TOP: 0px; POSITION: absolute; HEIGHT: 12px
+}
+#content .showcase #qtview .controllerPanel DIV.control {
+	BACKGROUND: url(/mac/home/images/qt_playpause20090106.gif) no-repeat left top; OVERFLOW: hidden; WIDTH: 10px; CURSOR: pointer; TEXT-INDENT: -999px; POSITION: relative; TOP: 1px; HEIGHT: 10px
+}
+#content .showcase #qtview .controllerPanel DIV.pause.control {
+	BACKGROUND-POSITION: left -10px
+}
+#content .showcase #qtview .controllerPanel DIV.sliderPanel {
+	LEFT: 16px; WIDTH: 544px; POSITION: absolute; TOP: 0px; HEIGHT: 12px
+}
+#content .showcase #qtview .controllerPanel DIV.sliderPanel DIV.track {
+	BACKGROUND: url(/mac/home/images/qt_bgtrack20090106.gif) no-repeat; LEFT: 0px; WIDTH: 544px; POSITION: absolute; HEIGHT: 12px; TEXT-ALIGN: left
+}
+#content .showcase #qtview .controllerPanel DIV.sliderPanel DIV.track DIV.loadedProgress {
+	BACKGROUND: url(/mac/home/images/qt_bgtrack_load20090106.gif) no-repeat; POSITION: absolute; TOP: 0px; HEIGHT: 12px
+}
+#content .showcase #qtview .controllerPanel DIV.sliderPanel DIV.track DIV.trackProgress {
+	POSITION: absolute; HEIGHT: 12px
+}
+#content .showcase #qtview .controllerPanel DIV.sliderPanel DIV.track DIV.playHead {
+	BACKGROUND: url(/mac/home/images/qt_pointer20090106.png) no-repeat; MARGIN: 0px 1px; BEHAVIOR: url(/global/scripts/lib/iepngfix.htc); WIDTH: 13px; CURSOR: pointer; POSITION: absolute; TOP: 0px; HEIGHT: 12px
+}
+#content .showcase UL.qtnav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 8px -4px 14px; WIDTH: 568px; PADDING-TOP: 0px; ZOOM: 1; TEXT-ALIGN: center
+}
+#content .showcase UL.qtnav LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 3px; WIDTH: 136px; PADDING-TOP: 0px; BORDER-BOTTOM-STYLE: none
+}
+#content .showcase UL.qtnav LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 10px; BACKGROUND: url(/mac/home/images/showcase_qtnav20090106.gif) no-repeat 0px 0px; PADDING-BOTTOM: 13px; COLOR: #000; PADDING-TOP: 13px; POSITION: relative
+}
+#content .showcase UL.qtnav LI A SPAN {
+	POSITION: relative; TOP: 4px
+}
+#content .showcase UL.qtnav LI A EM {
+	Z-INDEX: 2; LEFT: 0px; WIDTH: 100%; COLOR: #fff! important; FONT-STYLE: normal; POSITION: absolute; TOP: 30px; TEXT-ALIGN: center
+}
+#content .showcase UL.qtnav LI A IMG {
+	DISPLAY: block; MARGIN: 0px 20px 0px 19px
+}
+#content .showcase UL.qtnav LI A:hover {
+	BACKGROUND-POSITION: 0px -97px; COLOR: #333; TEXT-DECORATION: none
+}
+#content .showcase UL.qtnav LI A:hover * {
+	BACKGROUND-POSITION: 0px -97px; COLOR: #333; TEXT-DECORATION: none
+}
+#content .showcase UL.qtnav LI A:focus {
+	BACKGROUND-POSITION: 0px -97px; COLOR: #333; TEXT-DECORATION: none
+}
+#content .showcase UL.qtnav LI A.active {
+	BACKGROUND-POSITION: 0px -194px; CURSOR: default; COLOR: #525252; outline: none
+}
+#content .showcase UL.qtnav LI A.active IMG {
+	FILTER: alpha(opacity=30); opacity: .3; -moz-opacity: .3
+}
+#content .showcase UL.qtnav:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: '.'
+}
+#content .showcase UL.qtnav .qtcontent {
+	DISPLAY: none
+}
+#content UL.qtvertnav {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 4px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#content UL.qtvertnav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 3px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#content UL.qtvertnav LI.title P {
+	PADDING-LEFT: 6px
+}
+#content UL.qtvertnav LI A {
+	DISPLAY: block; BACKGROUND: url(/mac/home/images/qt_buttonbg20090608.jpg); WIDTH: 186px; POSITION: relative; HEIGHT: 86px
+}
+#content UL.qtvertnav LI A:hover {
+	BACKGROUND-POSITION: 0px -86px
+}
+#content UL.qtvertnav LI STRONG {
+	FONT-SIZE: 11px; LEFT: 11px; LINE-HEIGHT: 14px; POSITION: absolute
+}
+#content UL.qtvertnav LI SPAN {
+	FONT-SIZE: 11px; LEFT: 11px; LINE-HEIGHT: 14px; POSITION: absolute
+}
+#content UL.qtvertnav LI STRONG {
+	WIDTH: 60px; TOP: 15px
+}
+#content UL.qtvertnav LI SPAN {
+	COLOR: #b9b9b9; BOTTOM: 18px
+}
+#content UL.qtvertnav LI A IMG {
+	Z-INDEX: 1; RIGHT: 15px; POSITION: absolute; TOP: 16px
+}
+#content UL.qtvertnav LI A EM {
+	FONT-SIZE: 10px; Z-INDEX: 2; RIGHT: 15px; BACKGROUND: url(/mac/home/images/qt_btn_blackout20090608.png); WIDTH: 80px; COLOR: #fff! important; LINE-HEIGHT: 55px; POSITION: absolute; TOP: 16px; HEIGHT: 52px; TEXT-ALIGN: center
+}
+#content .alltutorials UL {
+	BORDER-LEFT: #ededed 1px solid; PADDING-TOP: 4px; HEIGHT: 415px
+}
+#content .alltutorials UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1.5em; MARGIN-LEFT: 7px; PADDING-TOP: 1.5em
+}
+#content .alltutorials UL LI.last {
+	BORDER-BOTTOM-STYLE: none; _padding-left: 7px
+}
+#content .alltutorials UL LI SPAN {
+	COLOR: #b9b9b9
+}
+#content .alltutorials UL LI IMG {
+	FLOAT: left; MARGIN: -11px 8px 0px -10px; POSITION: relative
+}
+#content UL.qtvertnav LI A:hover STRONG {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#content UL.qtvertnav LI A:hover SPAN {
+	COLOR: #b9b9b9; TEXT-DECORATION: none
+}
+#content UL.qtvertnav LI.active A {
+	BACKGROUND-POSITION: 0px -172px
+}
+#content .grid5col .column {
+	BORDER-RIGHT: #ededed 1px solid; MARGIN-TOP: 20px; MARGIN-BOTTOM: 20px; HEIGHT: 100px
+}
+#content .grid5col .last.column {
+	BORDER-RIGHT-STYLE: none
+}
+#globalfooter {
+	MARGIN-TOP: 12px
+}
+#globalfooter P.sosumi {
+	FLOAT: right; MARGIN: -4.4em 0px 0px; WIDTH: 540px; COLOR: #888; LINE-HEIGHT: 1.4em; TEXT-ALIGN: right
+}
